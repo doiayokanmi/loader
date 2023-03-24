@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+#main {
+    height: 100vh; 
+    background-color: #121212;
+}
+
 #container {
     position: relative;
     top: 50%;
